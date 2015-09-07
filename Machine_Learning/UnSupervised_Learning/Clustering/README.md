@@ -1,1 +1,1 @@
-K-means clustering for Slide Rule's Data Science Intensive Program.
+ K-means clustering for Slide Rule's Data Science Intensive Program.
