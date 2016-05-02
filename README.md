@@ -1,7 +1,7 @@
 # DATA_SCIENCE_INTENSIVE
 
 <p align="center">
-  <img src="https://github.com/abhipr1/DATA_SCIENCE_INTENSIVE/tree/master/Capstone/Model.png">
+  <img src="https://github.com/abhipr1/DATA_SCIENCE_INTENSIVE/blob/master/Capstone/Model.png"/>
 </p>
 
 
